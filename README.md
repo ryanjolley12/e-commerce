@@ -9,6 +9,9 @@ Sequelize <br>
 MySQL <br>
 
 ## Demo
-[ walkthrough video ] 
+https://drive.google.com/file/d/1_3qwMrPRTUu_A_GjsmBahZ-soNLkWb54/view
+
+## Github Repo
+https://github.com/ryanjolley12/e-commerce
 
 ## Ryan Jolley 2021
