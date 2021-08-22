@@ -12,6 +12,6 @@ MySQL <br>
 [ walkthrough video ] 
 
 ## Github Repo
-github.com/ryanjolley12/e-commerce
+https://github.com/ryanjolley12/e-commerce
 
 ## Ryan Jolley 2021
